@@ -1,5 +1,5 @@
 {
-  "name": "flay",
+  "name": "flay-log",
   "version": "0.1.0",
   "description": "Log objects easily",
   "main": "index.js",
