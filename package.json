@@ -1,0 +1,32 @@
+{
+  "name": "flay",
+  "version": "0.1.0",
+  "description": "Log objects easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beanilsson/flay.git"
+  },
+  "keywords": [
+    "logging",
+    "object",
+    "console.log"
+  ],
+  "author": "Bea Nilsson <beanilsson1@gmail.com> (https://github.com/beanilsson)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/beanilsson/flay/issues"
+  },
+  "homepage": "https://github.com/beanilsson/flay#readme",
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "chai": "^4.1.2",
+    "mocha": "^5.0.0",
+    "mocha-sinon": "^2.0.0",
+    "sinon": "^4.2.2",
+    "sinon-chai": "^2.14.0"
+  }
+}
